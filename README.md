@@ -1,2 +1,2 @@
 # SHCDecisionMaking
-Matlab files for submission to Bioinspiration and Biomimetics (May 2024)
+Matlab files for submission to Bioinspiration and Biomimetics (June 2024)
